@@ -53,7 +53,7 @@ const checkwinner = () => {
 };
 
 const show_winner = (winner) => {
-        msg.innerText=`Congratulations,Winner is ${winner}`;
+        msg.innerText=`Hehe, $(winner) jeet gaya!`;
         msg_container.classList.remove("hide");
 };
 
